@@ -1,0 +1,41 @@
+Pet Care Sharing System - Requirements
+
+Description:
+The Pet Care Sharing System is an application that helps pet owners find people who can temporarily take care of their pets when they are unavailable.
+Users can create an account and provide personal information such as their name, email address, phone number, and address. Users can also specify the days when they are available to help others.
+Each user can register one or more pets. For every pet, the owner can store information such as its name, age, type, and a short description. Users can also upload photos of their pets and specify special care requirements.
+When a pet owner needs help, they can create a care request. A request contains information about the pet, the required dates, and the location where the service is needed.
+Other users can browse available requests and send offers to help. Each offer may contain a short message from the person offering assistance.
+If the pet owner accepts an offer, an arrangement is created between the two users. After an arrangement is made, both users can communicate through a chat and exchange messages to discuss details about the pet care service.
+After the service is completed, users can leave reviews and ratings about their experience.
+The system keeps track of users, pets, care requests, offers, arrangements, chats, messages, reviews, photos, addresses, availability information, pet types, and care requirements.
+
+
+Main Components
+•	User 
+•	Address 
+•	Availability 
+•	Pet 
+•	Pet Type 
+•	Photo 
+•	Care Requirement 
+•	Care Request 
+•	Help Offer 
+•	Arrangement 
+•	Chat 
+•	Message 
+•	Review
+
+Main Functions
+1.	Users can create and manage accounts. 
+2.	Users can add and manage information about their pets. 
+3.	Users can upload pet photos. 
+4.	Users can specify special care requirements for their pets. 
+5.	Users can create pet care requests. 
+6.	Users can browse available care requests. 
+7.	Users can send offers to help with a request. 
+8.	Users can accept offers and create arrangements. 
+9.	Users can communicate through chats and messages. 
+10.	Users can manage their availability. 
+11.	Users can leave reviews after a completed arrangement. 
+12.	The system stores address information for users.
